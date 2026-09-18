@@ -1,19 +1,1 @@
 @import 'tailwindcss';
-
-
-.wrapper {
-    height: 100vh;
-}
-
-.playfield {
-    width: 300px;
-    height: 300px;
-    /*display: grid;*/
-    /*grid-template-columns: auto auto auto;*/
-}
-
-.cell {
-    width: 100px;
-    height: 100px;
-    border: 1px solid black;
-}
