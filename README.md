@@ -10,5 +10,6 @@ Changes compared to the interview end:
 ## Usage
 Run the dev server
 ```bash
+npm i
 npm run dev
 ```
